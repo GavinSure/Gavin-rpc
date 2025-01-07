@@ -1,0 +1,3 @@
+roundRobin=com.Gavin.Gavinrpc.loadbalancer.RoundRobinLoadBalancer
+random=com.Gavin.Gavinrpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.Gavin.Gavinrpc.loadbalancer.ConsistentHashLoadBalancer

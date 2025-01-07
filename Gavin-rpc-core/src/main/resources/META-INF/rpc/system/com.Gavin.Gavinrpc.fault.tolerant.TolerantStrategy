@@ -1,0 +1,4 @@
+failBack=com.Gavin.Gavinrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.Gavin.Gavinrpc.tolerant.FailFastTolerantStrategy
+failOver=com.Gavin.Gavinrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.Gavin.Gavinrpc.fault.tolerant.FailSafeTolerantStrategy

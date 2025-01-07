@@ -1,0 +1,2 @@
+jdk=com.Gavin.Gavinrpc.serializer.JdkSerializer
+hessian=com.Gavin.Gavinrpc.serializer.HessianSerializer

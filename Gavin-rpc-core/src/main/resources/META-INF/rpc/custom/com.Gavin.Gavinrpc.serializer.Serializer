@@ -1,0 +1,2 @@
+json=com.Gavin.Gavinrpc.serializer.JsonSerializer
+kryo=com.Gavin.Gavinrpc.serializer.KryoSerializer
